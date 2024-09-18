@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'CocoGothic-Bold_trial';
+   font-display: swap;
+   src: url('CocoGothic-Bold_trial/font.ttf');
+}
+@font-face {
+   font-family: 'Thicker-Regular-trial';
+   font-display: swap;
+   src: url('Thicker-Regular-trial/font.ttf');
+}
+@font-face {
+   font-family: 'CocoGothic-Light_trial';
+   font-display: swap;
+   src: url('CocoGothic-Light_trial/font.ttf');
+}
